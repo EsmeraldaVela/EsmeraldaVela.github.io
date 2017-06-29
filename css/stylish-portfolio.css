@@ -161,6 +161,9 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+h1{
+    color:white;
+}
 
 /* About */
 
