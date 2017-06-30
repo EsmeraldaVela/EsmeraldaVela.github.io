@@ -1,21 +1,22 @@
-h2{
+header h2{
 	font-family: 'Monoton', cursive;
 	color:#E724CA;
 	font-size:3em;
+	letter-spacing: 0.3em;
+
 }
 header{
-	background:url(img/ice-cream-2.png);
-   	padding: 0;
-	margin: 0;
-	
+	background:url(img/img3.png) no-repeat right 0px;
+    padding:1em 0 0.5em;
+	margin:0 0 3.0em;
 }
 
 h3{
 	font-family: 'Rancho', cursive;
 }
 img{
-	width:200px;
-	height:160px;
+	width:150px;
+	height:150px;
 }
 
 body{
@@ -24,3 +25,11 @@ body{
 	margin: 0;
 	-webkit-background-size: 100% 100%;
 }
+
+div{
+    float: right;
+    display: block;
+    position:relative;
+
+}
+
