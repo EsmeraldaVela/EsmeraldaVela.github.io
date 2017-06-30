@@ -1,0 +1,26 @@
+h2{
+	font-family: 'Monoton', cursive;
+	color:#E724CA;
+	font-size:3em;
+}
+header{
+	background:url(img/ice-cream-2.png);
+   	padding: 0;
+	margin: 0;
+	
+}
+
+h3{
+	font-family: 'Rancho', cursive;
+}
+img{
+	width:200px;
+	height:160px;
+}
+
+body{
+	background: url(img/pastel.jpg) no-repeat fixed top center;
+	padding: 0;
+	margin: 0;
+	-webkit-background-size: 100% 100%;
+}
