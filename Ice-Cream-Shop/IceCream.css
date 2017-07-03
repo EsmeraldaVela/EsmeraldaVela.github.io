@@ -6,7 +6,7 @@ header h2{
 
 }
 header{
-	background:url(img/img3.png) no-repeat right 0px;
+	background:url(Img/Pic.png) no-repeat right 0px;
     padding:1em 0 0.5em;
 	margin:0 0 3.0em;
 }
@@ -20,7 +20,7 @@ img{
 }
 
 body{
-	background: url(Img/pastel.jpg) no-repeat fixed top center;
+	background: url(Img/Background-pic.jpg) no-repeat fixed top center;
 	padding: 0;
 	margin: 0;
 	-webkit-background-size: 100% 100%;
