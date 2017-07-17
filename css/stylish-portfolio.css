@@ -159,19 +159,21 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+
 .header h1{
     color:white;
     font-family: 'Abril Fatface', cursive;
 }
+
 .header h2{
-    color:Pink;
+    color:pink;
     font-family: 'Courgette', cursive;
 }
 
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 50px 0px;
     background-color:#F0B27A;
     -webkit-background-size:cover;
     -moz-background-size:cover;
