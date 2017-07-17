@@ -204,7 +204,7 @@ hr.small {
     
 }
 
-.carousel-inner img {
+.carousel img {
     size: 230x230;
     border:solid black;
 }
@@ -255,6 +255,11 @@ hr.small {
 
 .map iframe {
     pointer-events: none;
+}
+
+.contact h2{
+    font-family: 'Courgette', cursive;
+    color:red;
 }
 
 /* Footer */
