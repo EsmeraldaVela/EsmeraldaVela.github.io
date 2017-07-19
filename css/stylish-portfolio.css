@@ -62,6 +62,7 @@ hr.small {
 
 /* Side Menu */
 
+
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -205,7 +206,7 @@ hr.small {
 }
 
 .carousel img {
-    size: 230x230;
+    width:600px;
     border:solid black;
 }
 
@@ -213,7 +214,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background-color:#D7BDE2;
+    background-color:#F1B925;
 }
 
 .service-item {
@@ -240,27 +241,14 @@ hr.small {
     opacity: 0.8;
 }
 
-/* Map */
 
-.map {
-    height: 50%;
-    width: 50%;
-}
-
-@media(max-width:768px) {
-    .map {
-        height: 70%;
-    }
-}
-
-.map iframe {
-    pointer-events: none;
-}
-
-.contact h2{
+.Contact-Information h2{
     font-family: 'Courgette', cursive;
     color:red;
+    text-align: center;
 }
+
+
 
 /* Footer */
 
